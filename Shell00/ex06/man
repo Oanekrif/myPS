@@ -1,0 +1,3 @@
+./.gitignore
+git status --ignored
+git ls_files --others

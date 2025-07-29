@@ -1,0 +1,4 @@
+mkdir
+touch -ht
+ln -s source_file link_name
+

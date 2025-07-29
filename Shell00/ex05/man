@@ -1,0 +1,19 @@
+git config --global user.email "you@example.com"
+git config --global user.name "yourname"
+git config --global user.name
+git config --global user.email
+git config --global --list
+git config --global alias.st = state
+git init
+git add
+git commit -m""
+git status
+git log -n --pretty=oneline,short,medium,full,fuller,format:'%H %h %s %an %ae %ad'
+git remote -v
+git remote add origin
+git remote set-url origin
+git push -u origin
+git pull origin
+git fetch origin
+git clone
+

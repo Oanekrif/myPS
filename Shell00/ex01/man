@@ -1,0 +1,6 @@
+touch -t -m -c
+stat
+ls -l
+chmod
+chmod 777 filename == chmod u=rwx,g=rwx,o=rwx filename == chmod a=rwx
+tar -c -r -f -x -v -t -p

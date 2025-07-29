@@ -1,0 +1,9 @@
+touch
+ssh-keygen -t rsa -b 4096 -C "oanekrif@gmail.com"
+cat
+ssh-keygen -c -C "" -f ~/.ssh/id_rsa
+cp src cp
+ssh-keygen -p -f /.ssh/id_rsa
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id-rsa
+ssh-add -l

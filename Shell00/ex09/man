@@ -1,0 +1,4 @@
+<offset> <type> <value> [description]
+echo '41 string 42 42 file' > ft_magic
+python3 -c "print('\0' * 41 + '42')" > testfile
+file -m ft_magic testfile
