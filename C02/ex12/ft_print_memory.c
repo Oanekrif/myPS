@@ -6,12 +6,11 @@
 /*   By: oanekrif <oanekrif@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/29 20:03:58 by oanekrif          #+#    #+#             */
-/*   Updated: 2025/07/29 22:40:08 by oanekrif         ###   ########.fr       */
+/*   Updated: 2025/08/04 00:52:18 by oanekrif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <unistd.h>
-//#include <stdio.h>
+#include <unistd.h>
 #define HEX "0123456789abcdef"
 
 void	ft_putchar(char c)

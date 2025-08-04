@@ -6,11 +6,11 @@
 /*   By: oanekrif <oanekrif@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/01 19:35:15 by oanekrif          #+#    #+#             */
-/*   Updated: 2025/08/02 02:45:16 by oanekrif         ###   ########.fr       */
+/*   Updated: 2025/08/04 00:58:55 by oanekrif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+//#include <stdio.h>
 
 int	ft_atoi(char *str)
 {

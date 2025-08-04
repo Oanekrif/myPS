@@ -6,11 +6,11 @@
 /*   By: oanekrif <oanekrif@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/29 19:33:46 by oanekrif          #+#    #+#             */
-/*   Updated: 2025/07/29 19:57:36 by oanekrif         ###   ########.fr       */
+/*   Updated: 2025/08/04 00:50:46 by oanekrif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <unistd.h>
+#include <unistd.h>
 
 void	ft_putchar(char c)
 {

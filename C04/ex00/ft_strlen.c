@@ -6,12 +6,12 @@
 /*   By: oanekrif <oanekrif@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/30 21:32:05 by oanekrif          #+#    #+#             */
-/*   Updated: 2025/07/31 18:33:51 by oanekrif         ###   ########.fr       */
+/*   Updated: 2025/08/04 00:55:29 by oanekrif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <string.h>
+//#include <stdio.h>
+//#include <string.h>
 
 unsigned int	ft_strlen(char *str)
 {

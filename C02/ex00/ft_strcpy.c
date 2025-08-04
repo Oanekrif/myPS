@@ -6,11 +6,10 @@
 /*   By: oanekrif <oanekrif@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/28 18:31:21 by oanekrif          #+#    #+#             */
-/*   Updated: 2025/07/28 18:47:11 by oanekrif         ###   ########.fr       */
+/*   Updated: 2025/08/04 00:45:31 by oanekrif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <unistd.h>
 //#include <stdio.h>
 
 char	*ft_strcpy(char *dest, char *src)

@@ -1,40 +1,13 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_strncpy.c                                       :+:      :+:    :+:   */
+/*   ft_atoi_base.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: oanekrif <oanekrif@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/07/28 18:31:21 by oanekrif          #+#    #+#             */
-/*   Updated: 2025/08/04 00:46:42 by oanekrif         ###   ########.fr       */
+/*   Created: 2025/08/04 00:57:25 by oanekrif          #+#    #+#             */
+/*   Updated: 2025/08/04 01:04:45 by oanekrif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <stdio.h>
 
-char	*ft_strncpy(char *dest, char *src, unsigned int n)
-{
-	int	i;
-
-	if ((dest && src))
-	{
-		while (src[i] && n--)
-		{
-			dest[i] = src[i];
-			i++;
-		}
-		dest[i] = '\0';
-	}
-	return (dest);
-}
-
-/*
-void	main(void)
-{
-	char src[10] = "omar";
-	char dest[10];
-
-	ft_strncpy(dest, src, 2);
-	printf("%s", dest);
-}
-*/

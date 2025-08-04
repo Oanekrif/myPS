@@ -6,11 +6,11 @@
 /*   By: oanekrif <oanekrif@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/06 00:27:27 by oanekrif          #+#    #+#             */
-/*   Updated: 2025/07/28 18:41:25 by oanekrif         ###   ########.fr       */
+/*   Updated: 2025/08/04 00:42:15 by oanekrif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <stdio.h>
+#include <stdio.h>
 
 int	ft_strlen(char *str)
 {
